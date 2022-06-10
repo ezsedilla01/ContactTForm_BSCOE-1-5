@@ -1,0 +1,17 @@
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\obj\Debug\net6.0-windows\ContacTracingApp.csproj.AssemblyReference.cache
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\obj\Debug\net6.0-windows\ContacTracingApp.Form1.resources
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\obj\Debug\net6.0-windows\ContacTracingApp.csproj.GenerateResource.cache
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\obj\Debug\net6.0-windows\ContacTracingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\obj\Debug\net6.0-windows\ContacTracingApp.AssemblyInfoInputs.cache
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\obj\Debug\net6.0-windows\ContacTracingApp.AssemblyInfo.cs
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\obj\Debug\net6.0-windows\ContacTracingApp.csproj.CoreCompileInputs.cache
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\bin\Debug\net6.0-windows\ContacTracingApp.exe
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\bin\Debug\net6.0-windows\ContacTracingApp.deps.json
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\bin\Debug\net6.0-windows\ContacTracingApp.runtimeconfig.json
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\bin\Debug\net6.0-windows\ContacTracingApp.dll
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\bin\Debug\net6.0-windows\ContacTracingApp.pdb
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\obj\Debug\net6.0-windows\ContacTracingApp.dll
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\obj\Debug\net6.0-windows\refint\ContacTracingApp.dll
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\obj\Debug\net6.0-windows\ContacTracingApp.pdb
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\obj\Debug\net6.0-windows\ContacTracingApp.genruntimeconfig.cache
+C:\Users\Erika Zoe Sedilla\source\repos\ContacTracingApp\ContacTracingApp\obj\Debug\net6.0-windows\ref\ContacTracingApp.dll
