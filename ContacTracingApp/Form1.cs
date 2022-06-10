@@ -15,9 +15,9 @@ namespace ContacTracingApp
             file.WriteLine("Phone Number: " + txtBoxPhoneNumber.Text);
             file.WriteLine("Email Address: " + txtBoxEmailAddress.Text);
             file.WriteLine("Current Address: " + txtBoxCurrentAddress.Text);
-            file.WriteLine("Time of Visit: " + txtBoxCurrentAddress1.Text);
-            file.WriteLine("Date: " + txtBoxTimeofVisit.Text);
-            file.WriteLine("Signature: " + txtBoxDate.Text);
+            file.WriteLine("Current Address1: " + txtBoxCurrentAddress1.Text);
+            file.WriteLine("Time of Visit: " + txtBoxTimeofVisit.Text);
+            file.WriteLine("Date: " + txtBoxDate.Text);
             file.WriteLine("Signature: " + txtBoxSignatureFPN.Text);
             file.Close();
 
